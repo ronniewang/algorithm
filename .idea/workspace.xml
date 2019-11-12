@@ -24,7 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="338cd803-b887-46d4-af0a-04f3656257c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePostorderTraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePreorderTraversal/nAryTreePostorderTraversal/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,31 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/sort/QuickSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/recursion/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="101">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/twoSum/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="20" selection-start-line="8" selection-start-column="8" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="e#192#210#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -91,11 +72,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/tree/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-630">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="34" selection-start-line="34" selection-end-line="46" selection-end-column="1" />
+            <state relative-caret-position="274">
+              <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePostorderTraversal/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePreorderTraversal/nAryTreePostorderTraversal/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -117,15 +128,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/tree/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -170,6 +172,9 @@
         <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/permutations/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/binaryRreeLevelOrderTraversal/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePostorderTraversal/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePreorderTraversal/nAryTreePostorderTraversal/Solution.java" />
       </list>
     </option>
   </component>
@@ -250,6 +255,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="nAryTreePostorderTraversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="permutations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -289,7 +304,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573551293124" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573552645872" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -303,6 +318,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="r.w.practice.dp" />
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePreorderTraversal" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -427,7 +445,7 @@
       <updated>1572318498538</updated>
       <workItem from="1572318501503" duration="5805000" />
       <workItem from="1573464498961" duration="74000" />
-      <workItem from="1573541364840" duration="7218000" />
+      <workItem from="1573541364840" duration="8336000" />
     </task>
     <task id="LOCAL-00001" summary="一些题">
       <created>1573551060260</created>
@@ -436,11 +454,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573551060261</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="一些题">
+      <created>1573551431469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573551431469</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13097000" />
+    <option name="totallyTimeSpent" value="14215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -507,13 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
@@ -565,6 +583,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/binaryRreeLevelOrderTraversal/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -572,10 +604,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="34" selection-start-line="34" selection-end-line="46" selection-end-column="1" />
+        <state relative-caret-position="-630">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePostorderTraversal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePreorderTraversal/nAryTreePostorderTraversal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>

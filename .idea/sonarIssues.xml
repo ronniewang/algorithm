@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -49,6 +54,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePostorderTraversal/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/nAryTreePreorderTraversal/nAryTreePostorderTraversal/Solution.java">
           <value>
             <set />
           </value>
