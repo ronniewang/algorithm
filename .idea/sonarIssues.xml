@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/StrTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/Fibonacci.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/dp/Palindrome.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/dp/StrTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/dp/TreeNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/addTwoNumbers/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/twoSum/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/twoSum/addTwoNums/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/recursion/Perm.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/recursion/Permutation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/sort/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/ksc.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/common/AlertUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/common/config/RestTemplateConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/common/service/RequestLogService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/common/utils/DateUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/MaterialManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/handler/HandlerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/handler/selector/VideoTypeMaterialSelectorPolicyHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/model/groupUnit/MaterialSelectorGroupUnit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/service/RatioService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/service/SchemaCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/core/service/SchemaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/material/TvidUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/material/controller/VideoOpsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/main/java/com/iqiyi/bi/flex/personalizedRecall/material/model/MaterialData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/common/AlertUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/common/EnvUtilsTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/common/config/RestTemplateConfigTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/core/handler/HandlerFactoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/core/model/GroupTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/core/model/groupUnit/AbstractGroupUnitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/core/service/RatioServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/core/service/SchemaCommandTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/core/service/SchemaServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/material/schedule/task/SecretKeyTaskTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../personalized-recall/recall-material/src/test/java/com/iqiyi/bi/flex/personalizedRecall/testMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
