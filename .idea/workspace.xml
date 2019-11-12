@@ -24,17 +24,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="338cd803-b887-46d4-af0a-04f3656257c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/binaryRreeLevelOrderTraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/permutations/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/r/w/practice/dp/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/r/w/practice/dp/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/r/w/practice/dp/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/r/w/practice/dp/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/r/w/practice/recursion/Permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/r/w/practice/recursion/Permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/r/w/practice/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/r/w/practice/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/r/w/practice/tree/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/r/w/practice/tree/TreeNode.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,15 +41,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/dp/Palindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-            </state>
-          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -99,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/binaryRreeLevelOrderTraversal/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="342">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="34" selection-start-line="34" selection-end-line="46" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -177,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/addTwoNumbers/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/permutations/Solution.java" />
         <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/binaryRreeLevelOrderTraversal/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java" />
       </list>
     </option>
   </component>
@@ -296,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573550871264" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573551293124" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -434,12 +427,20 @@
       <updated>1572318498538</updated>
       <workItem from="1572318501503" duration="5805000" />
       <workItem from="1573464498961" duration="74000" />
-      <workItem from="1573541364840" duration="6960000" />
+      <workItem from="1573541364840" duration="7218000" />
     </task>
+    <task id="LOCAL-00001" summary="一些题">
+      <created>1573551060260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573551060261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12839000" />
+    <option name="totallyTimeSpent" value="13097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -486,6 +487,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="一些题" />
+    <option name="LAST_COMMIT_MESSAGE" value="一些题" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/dp/Fibonacci.java">
@@ -562,8 +567,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/binaryRreeLevelOrderTraversal/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="342">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="34" selection-start-line="34" selection-end-line="46" selection-end-column="1" />
         </state>
       </provider>
     </entry>
