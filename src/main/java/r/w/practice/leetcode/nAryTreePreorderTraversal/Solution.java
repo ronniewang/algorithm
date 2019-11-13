@@ -1,4 +1,4 @@
-package r.w.practice.leetcode.nAryTreePreorderTraversal.nAryTreePostorderTraversal;
+package r.w.practice.leetcode.nAryTreePreorderTraversal;
 
 import java.util.ArrayList;
 import java.util.List;
