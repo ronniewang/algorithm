@@ -43,6 +43,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/addTwoNumbers/Solution.java">
           <value>
             <set />
@@ -53,12 +58,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/climbingStairs/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/guessNumbers/Solution.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/longestPalindromicSubstring/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/maximumProductSubarray/Solution.java">
           <value>
             <set />
           </value>
@@ -89,6 +104,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/twoSum/addTwoNums/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/uniquePaths/Solution.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/uniquePaths/UniquePaths.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/uniquePaths/UniquePaths2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/uniquePaths/UniquePathsWithObjstacles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/uniquePaths/UniquePathsWithObstacles.java">
           <value>
             <set />
           </value>
@@ -243,6 +283,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../realtime-retention/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../realtime-retention/src/main/java/com/iqiyi/bi/flex/retention/consumer/ActiveLogConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../realtime-retention/src/main/java/com/iqiyi/bi/flex/retention/consumer/ClickLogConsumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../realtime-retention/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../realtime-retention/src/main/resources/application-prod.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../realtime-retention/src/main/resources/application-test.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../zongheng-task-monitor/pom.xml">
           <value>
             <set />
@@ -254,6 +324,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../zongheng-task-monitor/src/main/java/com/iqiyi/bi/flex/zonghengtaskmonitor/iqid/IqidService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../zongheng-task-monitor/src/main/java/com/iqiyi/bi/flex/zonghengtaskmonitor/task/oppoPackTask/IqidTask.java">
           <value>
             <set />
           </value>
