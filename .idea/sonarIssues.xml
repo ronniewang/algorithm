@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/MatrixTraverse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/dp/Palindrome.java">
           <value>
             <set />
@@ -39,6 +44,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/dp/TreeNode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/houseRobber/Solution.java">
           <value>
             <set />
           </value>
@@ -154,6 +164,46 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/r/w/practice/sort/QuickSort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/java/com/qiyi/coreflow/zongheng/SilentUserUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/java/com/qiyi/coreflow/zongheng/houyi/adapter/CbPeopleCaller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/java/com/qiyi/coreflow/zongheng/infrastructure/config/CouchbaseConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/java/com/qiyi/coreflow/zongheng/peopleAd/DeviceMd5Mapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/java/com/qiyi/coreflow/zongheng/peopleAd/service/DevicePeopleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../growth-hacking-service/src/main/resources/application-test.yml">
           <value>
             <set />
           </value>
