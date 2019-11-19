@@ -25,7 +25,6 @@
   <component name="ChangeListManager">
     <list default="true" id="338cd803-b887-46d4-af0a-04f3656257c3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/r/w/practice/MatrixTraverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/r/w/practice/MatrixTraverse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,7 +39,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/permutations/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
+            <state relative-caret-position="479">
               <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -52,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/MatrixTraverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+            <state relative-caret-position="171">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -263,7 +262,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574144946701" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574145070518" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/r/w/practice/leetcode" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -295,9 +294,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixTraverse">
-    <configuration name="MatrixTraverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="r.w.practice.MatrixTraverse" />
+  <component name="RunManager" selected="Application.MatrixTraverser">
+    <configuration name="MatrixTraverser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="r.w.practice.MatrixTraverser" />
       <module name="algorithm" />
       <extension name="chronon">
         <include>
@@ -430,7 +429,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MatrixTraverse" />
+        <item itemvalue="Application.MatrixTraverser" />
         <item itemvalue="Application.UniquePaths" />
         <item itemvalue="Application.Palindrome" />
         <item itemvalue="Application.Solution" />
@@ -453,7 +452,7 @@
       <workItem from="1573541364840" duration="8924000" />
       <workItem from="1573611836502" duration="2383000" />
       <workItem from="1573615847663" duration="8400000" />
-      <workItem from="1573699986960" duration="10113000" />
+      <workItem from="1573699986960" duration="10355000" />
     </task>
     <task id="LOCAL-00001" summary="一些题">
       <created>1573551060260</created>
@@ -504,11 +503,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574144321717</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="优化">
+      <created>1574144980828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574144980828</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35699000" />
+    <option name="totallyTimeSpent" value="35941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -523,7 +529,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21232876" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23150685" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -559,7 +565,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="一些题" />
     <MESSAGE value="矩阵遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="矩阵遍历" />
+    <MESSAGE value="优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/dp/Fibonacci.java">
@@ -727,7 +734,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/leetcode/permutations/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
+        <state relative-caret-position="479">
           <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -737,8 +744,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/r/w/practice/MatrixTraverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        <state relative-caret-position="171">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>

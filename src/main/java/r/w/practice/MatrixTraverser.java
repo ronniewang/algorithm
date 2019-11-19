@@ -1,6 +1,6 @@
 package r.w.practice;
 
-public class MatrixTraverse {
+public class MatrixTraverser {
 
     public static void main(String[] args) {
 
@@ -10,12 +10,14 @@ public class MatrixTraverse {
                 {10, 15, 14, 5},
                 {9, 8, 7, 6}
         };
-        traverse(matrix);
+        new MatrixTraverser().traverse(matrix);
     }
 
-    private static void traverse(int[][] matrix) {
+    private void traverse(int[][] matrix) {
 
-        if (matrix == null || matrix.length == 0 || matrix.length != matrix[0].length) {
+        if (matrix == null
+                || matrix.length == 0
+                || matrix.length != matrix[0].length) {
             throw new IllegalArgumentException("matrix is not valid");
         }
         final int length = matrix.length;
@@ -26,7 +28,7 @@ public class MatrixTraverse {
         _traverse(matrix, leftUp, rightUp, rightBottom, leftBottom);
     }
 
-    private static void _traverse(int[][] matrix, Point leftUp, Point rightUp, Point rightBottom, Point leftBottom) {
+    private void _traverse(int[][] matrix, Point leftUp, Point rightUp, Point rightBottom, Point leftBottom) {
 
         if (leftUp.col == rightUp.col) {
             System.out.println(matrix[leftUp.row][leftUp.col]);
@@ -59,7 +61,7 @@ public class MatrixTraverse {
         );
     }
 
-    static class Point {
+    class Point {
 
         private int row;
 
