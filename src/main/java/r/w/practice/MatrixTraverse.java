@@ -19,43 +19,56 @@ public class MatrixTraverse {
             throw new IllegalArgumentException("matrix is not valid");
         }
         final int length = matrix.length;
-        int[] leftUp = new int[]{0, 0};
-        int[] rightUp = new int[]{0, length - 1};
-        int[] rightBottom = new int[]{length - 1, length - 1};
-        int[] leftBottom = new int[]{length - 1, 0};
+        Point leftUp = new Point(0, 0);
+        Point rightUp = new Point(0, length - 1);
+        Point rightBottom = new Point(length - 1, length - 1);
+        Point leftBottom = new Point(length - 1, 0);
         _traverse(matrix, leftUp, rightUp, rightBottom, leftBottom);
     }
 
-    private static void _traverse(int[][] matrix, int[] leftUp, int[] rightUp, int[] rightBottom, int[] leftBottom) {
+    private static void _traverse(int[][] matrix, Point leftUp, Point rightUp, Point rightBottom, Point leftBottom) {
 
-        if (leftUp[1] == rightUp[1]) {
-            System.out.println(matrix[leftUp[0]][leftUp[1]]);
+        if (leftUp.col == rightUp.col) {
+            System.out.println(matrix[leftUp.row][leftUp.col]);
             return;
         }
-        if (rightUp[1] - leftUp[1] == 1) {
-            System.out.println(matrix[leftUp[0]][leftUp[1]]);
-            System.out.println(matrix[rightUp[0]][rightUp[1]]);
-            System.out.println(matrix[rightBottom[0]][rightBottom[1]]);
-            System.out.println(matrix[leftBottom[0]][leftBottom[1]]);
+        if (rightUp.col - leftUp.col == 1) {
+            System.out.println(matrix[leftUp.row][leftUp.col]);
+            System.out.println(matrix[rightUp.row][rightUp.col]);
+            System.out.println(matrix[rightBottom.row][rightBottom.col]);
+            System.out.println(matrix[leftBottom.row][leftBottom.col]);
             return;
         }
-        for (int col = leftUp[1]; col <= rightUp[1]; col++) {
-            System.out.println(matrix[leftUp[0]][col]);
+        for (int col = leftUp.col; col <= rightUp.col; col++) {
+            System.out.println(matrix[leftUp.row][col]);
         }
-        for (int row = rightUp[0] + 1; row <= rightBottom[0]; row++) {
-            System.out.println(matrix[row][rightUp[1]]);
+        for (int row = rightUp.row + 1; row <= rightBottom.row; row++) {
+            System.out.println(matrix[row][rightUp.col]);
         }
-        for (int col = rightBottom[1] - 1; col >= leftBottom[1]; col--) {
-            System.out.println(matrix[rightBottom[0]][col]);
+        for (int col = rightBottom.col - 1; col >= leftBottom.col; col--) {
+            System.out.println(matrix[rightBottom.row][col]);
         }
-        for (int row = leftBottom[0] - 1; row > leftUp[0]; row--) {
-            System.out.println(matrix[row][leftBottom[1]]);
+        for (int row = leftBottom.row - 1; row > leftUp.row; row--) {
+            System.out.println(matrix[row][leftBottom.col]);
         }
         _traverse(matrix,
-                new int[]{leftUp[0] + 1, leftUp[1] + 1},
-                new int[]{rightUp[0] + 1, rightUp[1] - 1},
-                new int[]{rightBottom[0] - 1, rightBottom[1] - 1},
-                new int[]{leftBottom[0] - 1, leftBottom[1] + 1}
+                new Point(leftUp.row + 1, leftUp.col + 1),
+                new Point(rightUp.row + 1, rightUp.col - 1),
+                new Point(rightBottom.row - 1, rightBottom.col - 1),
+                new Point(leftBottom.row - 1, leftBottom.col + 1)
         );
+    }
+
+    static class Point {
+
+        private int row;
+
+        private int col;
+
+        Point(int row, int col) {
+
+            this.row = row;
+            this.col = col;
+        }
     }
 }
